@@ -1,0 +1,27 @@
+salary of a DS dashboard
+
+experience level and salary relation line plot
+employment type and salary relation bar chart
+changes in salary as year changes timeline line plot
+exact job title and salary relation bar
+experience level and emp type relation to salary
+emp type and work year relation to swalary
+
+job title and emp type relation bar
+company size and emp type relation to salary
+
+
+
+AVERAGE SALARY PER YEAR
+AVERAGE SALARY BY EMPLOYMENT TYPE
+AVERAGE SALARY BY EXPERIENCE LEVEL
+AVERAGE SALARY BY SIZE OF COMPANY
+
+avg salary by emptype and year
+
+
+DASHBOARD
+
+map of location and blips of jobs
+all the graphs in the notebook
+make it interactive
